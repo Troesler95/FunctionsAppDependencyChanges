@@ -2,7 +2,7 @@
 var builder = require("botbuilder");
 var botbuilder_azure = require("botbuilder-azure");
 var path = require('path');
-var MicrosoftGraph = require("@microsoft/microsoft-graph-client");
+//var MicrosoftGraph = require("@microsoft/microsoft-graph-client");
 
 var useEmulator = (process.env.NODE_ENV == 'development');
 
